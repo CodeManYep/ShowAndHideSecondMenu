@@ -1,0 +1,2 @@
+# ShowAndHideSecondMenu
+用JavaScript，准确来说是用jQuery实现显示和隐藏二级菜单
