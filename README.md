@@ -1,2 +1,5 @@
 # ShowAndHideSecondMenu
 用JavaScript，准确来说是用jQuery实现显示和隐藏二级菜单
+
+第一个文件是JavaScript文件，用以实现二级菜单的隐藏和显示，图片文件是效果图
+第二个是jsp文件，只是截取js文件中涉及到的逻辑部分的页面标签，方便对应各个节点
